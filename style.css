@@ -1,0 +1,1800 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.landing-page-arquitectura-de-computadoras {
+  margin: auto;
+  width: 100%;
+  max-width: 1500px;
+  background: #ffffff;
+  height: 5000px;
+  position: relative;
+  overflow: hidden;
+}
+.secci-n-principal-8 {
+  position: absolute;
+  inset: 0;
+}
+.siguenos-en {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 50px;
+  font-weight: 600;
+  position: absolute;
+  left: 180px;
+  top: 4806px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.imagen-de-whats-app-2024-08-27-a-las-22-56-23-8040-cf-10-2 {
+  width: 70px;
+  height: 80px;
+  position: absolute;
+  left: 82px;
+  top: 4820px;
+  object-fit: cover;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 180px;
+  top: 4865px;
+}
+.fa-6-brands-facebook-f {
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.fa-6-brands-x-twitter {
+  flex-shrink: 0;
+  width: 40px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.vector {
+  flex-shrink: 0;
+  width: 35px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.fa-brands-linkedin {
+  flex-shrink: 0;
+  width: 40px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.fa-6-brands-instagram {
+  flex-shrink: 0;
+  width: 33px;
+  height: 35px;
+  position: relative;
+  overflow: visible;
+}
+.t-company-name {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 82px;
+  top: 4927px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2024-innovalogix-todos-los-derechos-reservados {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 22.4px;
+  font-weight: 400;
+  position: absolute;
+  left: 818px;
+  top: 4942px;
+}
+.secci-n-principal-7 {
+  position: absolute;
+  inset: 0;
+}
+.preguntas-frecuentes-encuentra-las-respuestas-a-tus-preguntas-aqu {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 115px;
+  top: 4398px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.preguntas-frecuentes-encuentra-las-respuestas-a-tus-preguntas-aqu-span {
+  color: #000000;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.preguntas-frecuentes-encuentra-las-respuestas-a-tus-preguntas-aqu-span2 {
+  color: #000000;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 40px;
+  font-weight: 400;
+}
+.group-6 {
+  width: 137px;
+  height: 44px;
+  position: static;
+}
+.rectangle-7 {
+  background: #f6ef0d;
+  border-radius: 5px;
+  width: 137px;
+  height: 44px;
+  position: absolute;
+  left: 115px;
+  top: 4529px;
+}
+.ayuda {
+  color: #0b342f;
+  text-align: center;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: absolute;
+  left: 157px;
+  top: 4537px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fa-brands-whatsapp {
+  width: 26px;
+  height: 30px;
+  position: absolute;
+  left: 124px;
+  top: 4536px;
+}
+.rectangle-8 {
+  background: linear-gradient(
+    90deg,
+    rgba(225, 240, 238, 1) 0.9999999776482582%,
+    rgba(79, 237, 200, 1) 87.99999952316284%
+  );
+  border-radius: 5px;
+  width: 611px;
+  height: 94px;
+  position: absolute;
+  left: 557px;
+  top: 4268px;
+}
+.rectangle-9 {
+  background: linear-gradient(
+    90deg,
+    rgba(225, 240, 238, 1) 0.9999999776482582%,
+    rgba(79, 237, 200, 1) 87.99999952316284%
+  );
+  border-radius: 5px;
+  width: 611px;
+  height: 94px;
+  position: absolute;
+  left: 557px;
+  top: 4377px;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    90deg,
+    rgba(225, 240, 238, 1) 0.9999999776482582%,
+    rgba(79, 237, 200, 1) 87.99999952316284%
+  );
+  border-radius: 5px;
+  width: 611px;
+  height: 94px;
+  position: absolute;
+  left: 557px;
+  top: 4486px;
+}
+.rectangle-11 {
+  background: linear-gradient(
+    90deg,
+    rgba(225, 240, 238, 1) 0.9999999776482582%,
+    rgba(79, 237, 200, 1) 87.99999952316284%
+  );
+  border-radius: 5px;
+  width: 611px;
+  height: 94px;
+  position: absolute;
+  left: 557px;
+  top: 4596px;
+}
+.qu-es-ecolnvent-y-c-mo-funciona {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 4300px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.qu-beneficios-ofrece-ecolnvent {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 4410px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.es-ecolnvent-adecuado-para-mi-negocio {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 4519px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.c-mo-empiezo-a-usar-ecolnvent {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: absolute;
+  left: 577px;
+  top: 4629px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.secci-n-principal-6 {
+  position: absolute;
+  inset: 0;
+}
+.planes-de-precios {
+  color: #000000;
+  text-align: center;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 40px;
+  line-height: 38px;
+  font-weight: 600;
+  position: absolute;
+  left: 489px;
+  top: 3440px;
+}
+.pricing {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  padding: 24px 20px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 341.33px;
+  min-width: 340px;
+  position: absolute;
+  left: 95px;
+  top: 3554px;
+  overflow: hidden;
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.t-basic-package {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.text {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.t-price-free {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 52px;
+  font-weight: 700;
+  position: relative;
+}
+.t-free-for-person-use-only {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.divider {
+  background: #b3b3b3;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.item-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check2 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check3 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-03 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check4 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-04 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check5 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-05 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.item-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.check6 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-free-feature-06 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button {
+  background: #fcfcfc;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 44px;
+  min-height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.t-free-get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pricing2 {
+  background: #f8fafc;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  padding: 24px 20px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 341.33px;
+  min-width: 340px;
+  position: absolute;
+  left: 469px;
+  top: 3619px;
+  overflow: hidden;
+}
+.t-pro-package {
+  color: #2463eb;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.title {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  line-height: 52px;
+  font-weight: 700;
+  position: relative;
+}
+.t-per-month {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+  min-width: 120px;
+}
+.t-pro-for-person-use-only {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.check7 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-pro-feature-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.check8 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-pro-feature-02 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.check9 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-pro-feature-03 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.check10 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.t-pro-feature-04 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button2 {
+  background: #2463eb;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2463eb;
+  border-width: 1px;
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 44px;
+  min-height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.t-pro-get-started {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 341.33px;
+  min-width: 340px;
+  position: absolute;
+  left: 842px;
+  top: 3690px;
+}
+.text2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.t-large-enterprise-brand-title {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.t-large-enterprise-brand-content {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.button3 {
+  background: #ffffff;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #2463eb;
+  border-width: 1px;
+  padding: 0px 16px 0px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 44px;
+  min-height: 44px;
+  position: relative;
+  overflow: hidden;
+}
+.t-book-meeting {
+  color: #2463eb;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.secci-n-principal-5 {
+  position: absolute;
+  inset: 0;
+}
+.lo-que-nuestros-clientes-dicen-sobre-ecolnvent {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 600;
+  position: absolute;
+  left: 361px;
+  top: 2972px;
+}
+.container2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 139px;
+  top: 3047px;
+}
+.a-avatar-10 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-08 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-06 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-04 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-02 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-01 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 102px;
+  height: 102px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-03 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-05 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-07 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-09 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.a-avatar-11 {
+  background: linear-gradient(to left, #f4f4f5, #f4f4f5);
+  border-radius: 1000px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  position: relative;
+  object-fit: cover;
+}
+.t-user-name {
+  color: #000000;
+  text-align: center;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 38px;
+  font-weight: 500;
+  position: absolute;
+  left: 462px;
+  top: 3188px;
+  width: 360px;
+}
+.innovador-en-log-stica {
+  color: #000000;
+  text-align: center;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 38px;
+  font-weight: 400;
+  position: absolute;
+  left: 546px;
+  top: 3276px;
+}
+.secci-n-principal-4 {
+  position: absolute;
+  inset: 0;
+}
+.optimiza-tu-inventario {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 42px;
+  font-weight: 600;
+  position: absolute;
+  left: 520px;
+  top: 2068px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-9 {
+  width: 1029px;
+  height: 724px;
+  position: static;
+}
+.descubre-ecolnvent-innovaci-n-en-inventarios {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 700;
+  position: absolute;
+  left: 329px;
+  top: 2120px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 475px;
+  top: 2806px;
+}
+.bot-n-aprende-m-s {
+  flex-shrink: 0;
+  width: 174px;
+  height: 38px;
+  position: static;
+}
+.rectangle-5 {
+  background: #22d9a5;
+  border-radius: 5px;
+  width: 174px;
+  height: 38px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.comienza-ahora {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 13px;
+  top: 3px;
+}
+.bot-n-comienza-ahora {
+  flex-shrink: 0;
+  width: 146px;
+  height: 38px;
+  position: static;
+}
+.rectangle-52 {
+  background: linear-gradient(
+    90deg,
+    rgba(115, 115, 115, 1) 0%,
+    rgba(217, 217, 217, 1) 0.009999999747378752%
+  );
+  border-radius: 5px;
+  width: 146px;
+  height: 38px;
+  position: absolute;
+  left: 184px;
+  top: 0px;
+}
+.aprende-m-s {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 197px;
+  top: 3px;
+}
+.descubre-eco-invent-1 {
+  border-radius: 10px;
+  width: 967px;
+  height: 558px;
+  position: absolute;
+  left: 152px;
+  top: 2205px;
+  object-fit: cover;
+}
+.button-r {
+  background: #fcfcfc;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 58px;
+  position: absolute;
+  right: 200px;
+  top: calc(50% - 58px);
+  overflow: hidden;
+}
+.icon {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.button-l {
+  background: #fcfcfc;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #b3b3b3;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+  height: 58px;
+  position: absolute;
+  left: 123px;
+  top: calc(50% - 58px);
+  overflow: hidden;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.items2 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 66px);
+  bottom: 2264px;
+}
+.item-12 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.item-22 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.item-32 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.item-42 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.item-last {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.secci-n-principal-3 {
+  position: absolute;
+  inset: 0;
+}
+.transforma-gesti-n-de-inventarios-1 {
+  border-radius: 10px;
+  width: 408px;
+  height: 408px;
+  position: absolute;
+  left: 213px;
+  top: 1528px;
+  object-fit: cover;
+}
+.optimiza-tu-inventario-hoy {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 500;
+  position: absolute;
+  left: 700px;
+  top: 1552px;
+}
+.ecolnvent-ofrece-soluciones-avanzadas-para-el-seguimiento-y-la-gesti-n-de-inventarios-garantizando-una-administraci-n-m-s-eficiente-y-sostenible {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 700px;
+  top: 1699px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.transforma-la-gesti-n-de-inventarios-con-ecolnvent {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 600;
+  position: absolute;
+  left: 700px;
+  top: 1595px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.boton-inicia-sesi-n {
+  width: 308.1px;
+  height: 38px;
+  position: static;
+}
+.group-5 {
+  width: 308.1px;
+  height: 38px;
+  position: static;
+}
+.rectangle-1 {
+  background: #22d9a5;
+  border-radius: 5px;
+  width: 328px;
+  height: 38px;
+  position: absolute;
+  left: 700px;
+  top: 1810px;
+}
+.comienza-ahora-con-eco-invent {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 714px;
+  top: 1813px;
+  width: 310px;
+}
+.secci-n-principal-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #f4faf7;
+  width: 1280px;
+  height: 765px;
+  position: absolute;
+  left: 0px;
+  top: 682px;
+}
+.soluci-n-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 136px;
+  top: 799px;
+}
+.tiempo-real {
+  flex-shrink: 0;
+  width: 393px;
+  height: 119px;
+  position: static;
+}
+.group-2 {
+  width: 393px;
+  height: 119px;
+  position: static;
+}
+.tiempo-real2 {
+  color: #000000;
+  text-align: left;
+  font-family: var(--titulo-2-font-family, "Urbanist-SemiBold", sans-serif);
+  font-size: var(--titulo-2-font-size, 32px);
+  line-height: var(--titulo-2-line-height, 32px);
+  font-weight: var(--titulo-2-font-weight, 600);
+  position: absolute;
+  left: 168px;
+  top: 10.5px;
+}
+.monitorea-tus-inventarios-en-tiempo-real-para-una-gesti-n-m-s-precisa {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 168px;
+  top: 50.5px;
+}
+.tiempo-real-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 6.5px;
+  object-fit: cover;
+}
+.alertas-autom-ticas {
+  flex-shrink: 0;
+  width: 465px;
+  height: 132px;
+  position: static;
+}
+.alertas-autom-ticas2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 716px;
+  top: -5px;
+}
+.recibe-notificaciones-autom-ticas-cuando-sea-necesario-reabastecer-productos {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 716px;
+  top: 65px;
+}
+.alertas-autom-ticas-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 119px;
+  position: absolute;
+  left: 543px;
+  top: 9px;
+  object-fit: cover;
+}
+.soluci-n-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 67px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 136px;
+  top: 1011px;
+}
+.group-3 {
+  flex-shrink: 0;
+  width: 478px;
+  height: 120px;
+  position: static;
+}
+.clasificaci-n-eficiente {
+  color: #000000;
+  text-align: left;
+  font-family: var(--titulo-2-font-family, "Urbanist-SemiBold", sans-serif);
+  font-size: var(--titulo-2-font-size, 32px);
+  line-height: var(--titulo-2-line-height, 32px);
+  font-weight: var(--titulo-2-font-weight, 600);
+  position: absolute;
+  left: 168px;
+  top: 5px;
+}
+.organiza-y-clasifica-tus-productos-de-manera-efectiva {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: var(--cuerpo-2-font-family, "Urbanist-Regular", sans-serif);
+  font-size: var(--cuerpo-2-font-size, 20px);
+  line-height: var(--cuerpo-2-line-height, 23px);
+  font-weight: var(--cuerpo-2-font-weight, 400);
+  position: absolute;
+  left: 168px;
+  top: 52px;
+}
+.clasificaci-n-eficiente-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 116.38px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  object-fit: cover;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 465px;
+  height: 121px;
+  position: static;
+}
+.reducci-n-de-costos {
+  color: #000000;
+  text-align: left;
+  font-family: var(--titulo-2-font-family, "Urbanist-SemiBold", sans-serif);
+  font-size: var(--titulo-2-font-size, 32px);
+  line-height: var(--titulo-2-line-height, 32px);
+  font-weight: var(--titulo-2-font-weight, 600);
+  position: absolute;
+  left: 716px;
+  top: -5px;
+}
+.reduce-costos-operativos-mediante-una-gesti-n-m-s-responsable {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: var(--cuerpo-2-font-family, "Urbanist-Regular", sans-serif);
+  font-size: var(--cuerpo-2-font-size, 20px);
+  line-height: var(--cuerpo-2-line-height, 23px);
+  font-weight: var(--cuerpo-2-font-weight, 400);
+  position: absolute;
+  left: 716px;
+  top: 67px;
+}
+.reducci-n-de-costos-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 97.32px;
+  position: absolute;
+  left: 545px;
+  top: 3px;
+  object-fit: cover;
+}
+.soluci-n-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 139px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 136px;
+  top: 1221px;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 406px;
+  height: 121.92px;
+  position: static;
+}
+.sostenibilidad {
+  color: #000000;
+  text-align: left;
+  font-family: var(--titulo-2-font-family, "Urbanist-SemiBold", sans-serif);
+  font-size: var(--titulo-2-font-size, 32px);
+  line-height: var(--titulo-2-line-height, 32px);
+  font-weight: var(--titulo-2-font-weight, 600);
+  position: absolute;
+  left: 168px;
+  top: 1.51px;
+}
+.fomenta-pr-cticas-sostenibles-en-tu-empresa-con-ecolnvent {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: var(--cuerpo-2-font-family, "Urbanist-Regular", sans-serif);
+  font-size: var(--cuerpo-2-font-size, 20px);
+  line-height: var(--cuerpo-2-line-height, 23px);
+  font-weight: var(--cuerpo-2-font-weight, 400);
+  position: absolute;
+  left: 168px;
+  top: 48.51px;
+  width: 238px;
+}
+.sostenibilidad-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 121.92px;
+  position: absolute;
+  left: 0px;
+  top: 1.51px;
+  object-fit: cover;
+}
+.group-8 {
+  flex-shrink: 0;
+  width: 409px;
+  height: 124.94px;
+  position: static;
+}
+.transformaci-n {
+  color: #000000;
+  text-align: left;
+  font-family: var(--titulo-2-font-family, "Urbanist-SemiBold", sans-serif);
+  font-size: var(--titulo-2-font-size, 32px);
+  line-height: var(--titulo-2-line-height, 32px);
+  font-weight: var(--titulo-2-font-weight, 600);
+  position: absolute;
+  left: 716px;
+  top: 0px;
+}
+.transforma-la-gesti-n-de-tus-recursos-con-nuestra-innovadora-soluci-n {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: var(--cuerpo-2-font-family, "Urbanist-Regular", sans-serif);
+  font-size: var(--cuerpo-2-font-size, 20px);
+  line-height: var(--cuerpo-2-line-height, 23px);
+  font-weight: var(--cuerpo-2-font-weight, 400);
+  position: absolute;
+  left: 716px;
+  top: 48px;
+  width: 238px;
+}
+.transformaci-n-digital-1 {
+  border-radius: 10px;
+  width: 119px;
+  height: 123.94px;
+  position: absolute;
+  left: 545px;
+  top: 1px;
+  object-fit: cover;
+}
+.secci-n-principal-1 {
+  position: absolute;
+  inset: 0;
+}
+
+/* Sección Principal 1 */
+
+.rectangle {
+  background: linear-gradient(180deg,rgba(160, 249, 210, 1) 0%,rgba(34, 217, 165, 1) 100%); /* Color de fondo 1 */
+  width: 1349px; /* Aancho */
+  height: 683px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sub-t-tulo-principal {
+  color: rgba(13, 13, 13, 0.7);
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 457px;
+}
+.t-tulo-principal {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-Regular", sans-serif;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 188px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.menu-navegaci-n {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 376px;
+  top: 59px;
+}
+.inicio {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+}
+.caracteristicas {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+}
+.productos {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+}
+.sobre-nosotros {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+}
+.contacto {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+}
+.logo-innovalogix {
+  border-radius: 10px;
+  width: 70px;
+  height: 80px;
+  position: absolute;
+  left: 30px;
+  top: 35px;
+  object-fit: cover;
+}
+.innovalogix {
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 177px;
+  top: 59px;
+}
+.boton-inicia-sesi-n2 {
+  width: 143px;
+  height: 38px;
+  position: static;
+}
+.rectangle-12 {
+  background: #fbd334;
+  border-radius: 5px;
+  width: 148px;
+  height: 38px;
+  position: absolute;
+  left: 1100px;
+  top: 56px;
+}
+.crear-cuenta {
+  text-decoration: none;
+  color: #000000;
+  text-align: left;
+  font-family: "Urbanist-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 1115px;
+  top: 59px;
+}
+.portada-principal {
+  border-radius: 10px;
+  width: 475px;
+  height: 389px;
+  position: absolute;
+  left: 690px;
+  top: 188px;
+  object-fit: cover;
+}
